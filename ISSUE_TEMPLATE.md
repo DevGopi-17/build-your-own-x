@@ -7,7 +7,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 <!-- max. 1 -->
 
 ### Tutorial title
-<!-- the original title from the article, repository, ... -->
+<!-- the original title from the article, repository, .... -->
 
 ### Tutorial URL
 
