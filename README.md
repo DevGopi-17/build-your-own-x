@@ -1,6 +1,6 @@
 # build-your-own-x
 
-[![Banner](/Users/gopiprajapati/Downloads/DevGopi-17-banner.png)]
+[![Banner](DevGopi-17-banner.png)]
 
 ## Build your own &lt;insert-technology-here&gt;
 
